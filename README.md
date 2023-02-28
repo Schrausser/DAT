@@ -16,3 +16,9 @@ Matrices and raw data editor for SCHRAUSSER-MAT.
 
 
 ![figure.\label{pic5}](pic5.png)
+
+
+![figure.\label{pic6}](pic6.png)
+
+
+![figure.\label{pic7}](pic7.png)
