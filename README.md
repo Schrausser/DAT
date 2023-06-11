@@ -1,4 +1,6 @@
 # DAT
+![figure.\label{pic0}](DAT.png)
+
 Matrices and raw data editor for SCHRAUSSER-MAT.
 ### Screenshots
 
